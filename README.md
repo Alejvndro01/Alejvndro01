@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Alejvndro01">
-    <img src="https://avatars.githubusercontent.com/u/Alejvndro01?s=400&v=4" width="100px;" alt="Foto de perfil de Alejvndro01"/>
+    <img src="https://pixabay.com/es/photos/tecnolog%C3%ADa-computadora-c%C3%B3digo-1283624/" width="100px;" alt="Foto de perfil de Alejvndro01"/>
   </a>
   <h1>¡Hola! Soy Alejvndro01 👋</h1>
   <p>Estudiante de Ingeniería en Informática, apasionado por la programación y siempre en busca de nuevos desafíos tecnológicos.</p>
