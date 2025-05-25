@@ -22,7 +22,7 @@ Estas son algunas de las tecnologías con las que trabajo o estoy explorando:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode,vs" alt="Tecnologías de Alejvndro01"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode,bootstrap" alt="Tecnologías de Alejvndro01"/>
   </a>
 </p>
 
