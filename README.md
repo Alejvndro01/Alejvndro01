@@ -35,7 +35,7 @@ Aunque estoy en constante aprendizaje, aquí hay algunas tecnologías e interese
 Algunos números de mi actividad en GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilanbaltras&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alejvndro01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alejvndro01&theme=radical&hide_border=true" alt="Racha de Contribuciones de GitHub"/>
 </p>
 
