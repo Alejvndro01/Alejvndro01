@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>¡Hola! Soy Alejvndro01 👋</h1>
-  <img src="banner.jpg" alt="Banner tecnológico" style="width:100%; height:auto;" />
+  <img src="banner.jpg" alt="Banner tecnológico" style="width:100%; height:60%;" />
   <p>Estudiante de Ingeniería en Informática, apasionado por la programación y siempre en busca de nuevos desafíos tecnológicos.</p>
 </div>
 
