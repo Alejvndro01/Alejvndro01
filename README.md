@@ -1,8 +1,8 @@
 <!-- Banner superior -->
-<img src="https://cdn.pixabay.com/photo/2016/03/09/09/30/technology-1248075_1280.jpg" alt="Banner tecnológico" style="width:100%; height:auto;"/>
+<img src="https://cdn.pixabay.com/photo/2016/03/09/09/30/technology-1248075_1280.jpg" alt="Banner tecnológico" style="width:100%; height:auto;" />
+
 
 <div align="center">
-  <img src="https://github.com/Alejvndro01.png" width="100px;" alt="Foto de perfil de Alejvndro01"/>
   <h1>¡Hola! Soy Alejvndro01 👋</h1>
   <p>Estudiante de Ingeniería en Informática, apasionado por la programación y siempre en busca de nuevos desafíos tecnológicos.</p>
 </div>
