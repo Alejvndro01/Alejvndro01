@@ -1,7 +1,7 @@
+<!-- Banner superior -->
+<img src="https://cdn.pixabay.com/photo/2016/03/09/09/30/technology-1248075_1280.jpg" alt="Banner tecnológico" style="width:100%; height:auto;"/>
+
 <div align="center">
-  <a href="https://github.com/Alejvndro01">
-    <img src="https://cdn.pixabay.com/photo/2016/03/09/09/30/technology-1248075_1280.jpg" alt="Banner tecnológico" style="width:100%; height:auto;"/>
-  </a>
   <h1>¡Hola! Soy Alejvndro01 👋</h1>
   <p>Estudiante de Ingeniería en Informática, apasionado por la programación y siempre en busca de nuevos desafíos tecnológicos.</p>
 </div>
@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre mí
 
-Mi nombre es **Dilan Arévalo**, tengo 24 años y actualmente estudio **Ingeniería en Informática** en la **Universidad Santo Tomás de Concepción**. Me encanta crear soluciones funcionales y eficientes a través del código, y siempre estoy buscando formas de mejorar mis habilidades.
+Mi nombre es **Dilan Baltras**, tengo 24 años y actualmente estudio **Ingeniería en Informática** en la **Universidad Santo Tomás de Concepción**. Me encanta crear soluciones funcionales y eficientes a través del código, y siempre estoy buscando formas de mejorar mis habilidades.
 
 Fuera del ámbito académico, disfruto jugar fútbol y compartir con mis seres queridos, lo cual me ayuda a mantener un equilibrio saludable.
 
@@ -22,7 +22,7 @@ Estas son algunas de las tecnologías con las que trabajo o estoy explorando:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode,bootstrap" alt="Tecnologías de Alejvndro01"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode, bootstrap" alt="Tecnologías de Alejvndro01"/>
   </a>
 </p>
 
