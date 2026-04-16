@@ -21,7 +21,6 @@ Mi nombre es **Dilan Baltras**, tengo 25 años y actualmente curso mi tercer añ
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/Minecraft_Forge-EAAB43?style=for-the-badge&logo=minecraft&logoColor=white" alt="Forge">
 </p>
 
@@ -30,7 +29,6 @@ Mi nombre es **Dilan Baltras**, tengo 25 años y actualmente curso mi tercer añ
 ### 📂 Proyectos Destacados
 
 * **[Glowray](https://github.com/Alejvndro01/Glowray):** Mod de Minecraft para la versión 1.20.1 centrado en criaturas bioluminiscentes y nado fluido.
-* **AgroClima:** Proyecto de ingeniería IoT para el monitoreo de microclimas agrícolas en la Región del Biobío.
 
 ---
 
