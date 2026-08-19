@@ -28,4 +28,4 @@ Desarrollador de Software y Web Full-Stack enfocado en crear soluciones digitale
 ### 📫 Contacto & Redes
 - **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com)
 - **Instagram:** [@alejvndro.dev](https://instagram.com/alejvndro.dev)
-- **Email:** tu-email-profesional@dominio.com
+- **Email:** alejvndro.arevalo@gmail.com
