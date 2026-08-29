@@ -1,30 +1,46 @@
-# Hola, soy Dilan Alejandro (Alejvndro) 👋
+# Hola, soy Alejandro Dev (Alejvndro) 🔵
 
-Desarrollador de Software y Web Full-Stack enfocado en crear soluciones digitales escalables, arquitecturas limpias y plataformas web de alto rendimiento.
+> **Software con Paz** | Tu Tienda · Tu Marca · Sin Comisiones.  
+> Desarrollador de Software enfocado en soluciones web robustas, catálogos digitales interactivos y sistemas de pedidos directos. Hecho en Hualqui para todo Chile.
 
 ---
 
-### 🚀 Servicios & Especialidades
-- **Desarrollo Web & Landing Pages:** Sitios rápidos, responsivos y optimizados para SEO (Next.js, React).
-- **Software a Medida & Dashboards:** Aplicaciones administrativas y sistemas web complejos (TypeScript, React, C#, Node.js).
-- **Arquitectura & Backend:** APIs robustas, diseño SOLID y bases de datos relacionales/NoSQL.
+### 🚀 Soluciones & Especialidades
+
+* **Cartas & Menús Digitales QR:** Plataformas interactivas para mesas, retiro o delivery con carga ultrarrápida.
+* **Sistemas de Pedidos a WhatsApp:** Automatización de flujos de venta donde el cliente arma su pedido y llega listo y formateado al chat.
+* **Cobros Directos (0% Comisión):** Integración de transferencias bancarias directas y validación de comprobantes sin intermediarios.
+* **Desarrollo Web & Software a Medida:** Arquitectura limpia (SOLID), modular y optimizada para rendimiento y SEO.
 
 ---
 
 ### 🛠️ Stack Tecnológico
-- **Frontend:** React, TypeScript, Next.js, HTML5, CSS3, Tailwind CSS.
-- **Backend:** C# (.NET), Node.js, Express.
-- **Bases de Datos & DevOps:** PostgreSQL, MySQL, Git, GitHub Actions, Linux.
+
+* **Frontend:** React, Next.js, TypeScript, Tailwind CSS, HTML5/CSS3.
+* **Backend:** Node.js, Express, C# (.NET), Java.
+* **Bases de Datos & Cloud:** PostgreSQL, MySQL, Firebase, Linux, Git / GitHub Actions.
+* **Enfoque de Ingeniería:** Clean Code, Clean Architecture, APIs RESTful y optimización para tiempo real.
 
 ---
 
-### 📌 Proyectos Destacados & Casos de Éxito
-- **Web IASD (Live Case Study):** Plataforma web institucional optimizada para gestión de contenido y comunidad.
-  - *Stack:* [Tecnología usada, ej: React / Next.js / TypeScript]
-  - *Demo / Enlace:* [Link a la web en vivo]
+### 📌 Proyectos Destacados
+
+* **[AlejandroDev.cl](https://alejandrodev.cl)**  
+  *Sitio oficial y plataforma de digitalización gastronómica y comercial sin comisiones.*  
+  * **Stack:** HTML5, Tailwind CSS, JavaScript Vanilla, Formspree API.
+  * **Enlace:** [Ver Sitio Web](https://alejandrodev.cl)
+
+* **Web IASD (Live Case Study)**  
+  *Plataforma web institucional orientada a la gestión de contenido y comunidad.*  
+  * **Stack:** React / TypeScript / Node.js
+  * **Enlace:** `[Demo / Repositorio]`
 
 ---
 
-### 📫 Contacto & Redes
-- **Instagram:** [@alejvndro.dev](https://instagram.com/alejvndro.dev)
-- **Email:** alejvndro.arevalo@gmail.com
+### 📫 Contacto Directo
+
+* 🌐 **Sitio Web:** [alejandrodev.cl](https://alejandrodev.cl)
+* 💬 **WhatsApp:** [+56 9 6355 8009](https://wa.me/56963558009)
+* 📷 **Instagram:** [@alejandrodev.cl](https://instagram.com/alejandrodev.cl)
+* ✉️ **Email:** [alejvndro.arevalo@gmail.com](mailto:alejvndro.arevalo@gmail.com)
+* 📍 **Ubicación:** Hualqui, Región del Biobío, Chile
