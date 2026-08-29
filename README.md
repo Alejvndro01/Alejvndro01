@@ -26,6 +26,6 @@ Desarrollador de Software y Web Full-Stack enfocado en crear soluciones digitale
 ---
 
 ### 📫 Contacto & Redes
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com)
+- **LinkedIn:** [linkedin.com/in/tu-perfil]([https://linkedin.com](https://www.linkedin.com/in/dilan-baltras-ar%C3%A9valo-699a57403/))
 - **Instagram:** [@alejvndro.dev](https://instagram.com/alejvndro.dev)
 - **Email:** alejvndro.arevalo@gmail.com
