@@ -1,16 +1,16 @@
 # Hola, soy Alejandro Dev (Alejvndro) 🔵
 
 > **Software con Paz** | Tu Tienda · Tu Marca · Sin Comisiones.  
-> Desarrollador de Software enfocado en soluciones web robustas, catálogos digitales interactivos y sistemas de pedidos directos. Hecho en Hualqui para todo Chile.
+> Desarrollador de Software y fundador de **Alejandro Dev**, agencia especializada en el desarrollo de páginas web a la medida, catálogos digitales y plataformas de comercio electrónico (e-commerce) para microemprendedores y comercios locales. Hecho en Hualqui para todo Chile.
 
 ---
 
-### 🚀 Soluciones & Especialidades
+### 🚀 Soluciones & Especialidades (Enfoque Capital Semilla Sercotec)
 
-* **Cartas & Menús Digitales QR:** Plataformas interactivas para mesas, retiro o delivery con carga ultrarrápida.
-* **Sistemas de Pedidos a WhatsApp:** Automatización de flujos de venta donde el cliente arma su pedido y llega listo y formateado al chat.
-* **Cobros Directos (0% Comisión):** Integración de transferencias bancarias directas y validación de comprobantes sin intermediarios.
-* **Desarrollo Web & Software a Medida:** Arquitectura limpia (SOLID), modular y optimizada para rendimiento y SEO.
+* **E-commerce & Tiendas Online a la Medida:** Plataformas de comercio electrónico adaptadas a las necesidades de comercios minoristas y ferreterías locales, con carrito de compras y gestión de inventario.
+* **Cartas & Menús Digitales QR:** Soluciones interactivas para locales de comida rápida orientadas a eliminar el papel y agilizar los pedidos presenciales o de retiro[cite: 1].
+* **Sistemas de Pedidos a WhatsApp:** Automatización de flujos de venta directo al chat del locatario con cálculo de totales y formato claro[cite: 1].
+* **Infraestructura y Sustentabilidad Digital:** Optimización de rendimiento web mediante redes de contenido Cloudflare y despliegue en nubes de alta eficiencia energética (*Green Hosting*)[cite: 1].
 
 ---
 
@@ -18,20 +18,20 @@
 
 * **Frontend:** React, Next.js, TypeScript, Tailwind CSS, HTML5/CSS3.
 * **Backend:** Node.js, Express, C# (.NET), Java.
-* **Bases de Datos & Cloud:** PostgreSQL, MySQL, Firebase, Linux, Git / GitHub Actions.
-* **Enfoque de Ingeniería:** Clean Code, Clean Architecture, APIs RESTful y optimización para tiempo real.
+* **Bases de Datos & Cloud:** PostgreSQL, MySQL, Firebase, Linux, Git / GitHub Actions, Cloudflare.
+* **Enfoque de Ingeniería:** Clean Code, Clean Architecture, Máquinas de Estados y optimización para tiempo real (evitando GC Alloc excesivo).
 
 ---
 
 ### 📌 Proyectos Destacados
 
 * **[AlejandroDev.cl](https://alejandrodev.cl)**  
-  *Sitio oficial y plataforma de digitalización gastronómica y comercial sin comisiones.*  
-  * **Stack:** HTML5, Tailwind CSS, JavaScript Vanilla, Formspree API.
+  *Agencia digital de desarrollo web para Mipes, enfocada en digitalización comercial sin comisiones por pasarelas de pago abusivas[cite: 1].*  
+  * **Stack:** HTML5, Tailwind CSS, JavaScript Vanilla, Cloudflare.
   * **Enlace:** [Ver Sitio Web](https://alejandrodev.cl)
 
-* **Web IASD (Live Case Study)**  
-  *Plataforma web institucional orientada a la gestión de contenido y comunidad.*  
+* **Plataforma E-commerce Mipe (Case Study)**  
+  *Sistema modular de tiendas virtuales y cartas digitales adaptadas para comercios locales.*  
   * **Stack:** React / TypeScript / Node.js
   * **Enlace:** `[Demo / Repositorio]`
 
