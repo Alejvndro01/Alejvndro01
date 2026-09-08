@@ -8,9 +8,9 @@
 ### 🚀 Soluciones & Especialidades (Enfoque Capital Semilla Sercotec)
 
 * **E-commerce & Tiendas Online a la Medida:** Plataformas de comercio electrónico adaptadas a las necesidades de comercios minoristas y ferreterías locales, con carrito de compras y gestión de inventario.
-* **Cartas & Menús Digitales QR:** Soluciones interactivas para locales de comida rápida orientadas a eliminar el papel y agilizar los pedidos presenciales o de retiro[cite: 1].
-* **Sistemas de Pedidos a WhatsApp:** Automatización de flujos de venta directo al chat del locatario con cálculo de totales y formato claro[cite: 1].
-* **Infraestructura y Sustentabilidad Digital:** Optimización de rendimiento web mediante redes de contenido Cloudflare y despliegue en nubes de alta eficiencia energética (*Green Hosting*)[cite: 1].
+* **Cartas & Menús Digitales QR:** Soluciones interactivas para locales de comida rápida orientadas a eliminar el papel y agilizar los pedidos presenciales o de retiro.
+* **Sistemas de Pedidos a WhatsApp:** Automatización de flujos de venta directo al chat del locatario con cálculo de totales y formato claro.
+* **Infraestructura y Sustentabilidad Digital:** Optimización de rendimiento web mediante redes de contenido Cloudflare y despliegue en nubes de alta eficiencia energética (*Green Hosting*).
 
 ---
 
@@ -26,7 +26,7 @@
 ### 📌 Proyectos Destacados
 
 * **[AlejandroDev.cl](https://alejandrodev.cl)**  
-  *Agencia digital de desarrollo web para Mipes, enfocada en digitalización comercial sin comisiones por pasarelas de pago abusivas[cite: 1].*  
+  *Agencia digital de desarrollo web para Mipes, enfocada en digitalización comercial sin comisiones por pasarelas de pago abusivas.*  
   * **Stack:** HTML5, Tailwind CSS, JavaScript Vanilla, Cloudflare.
   * **Enlace:** [Ver Sitio Web](https://alejandrodev.cl)
 
